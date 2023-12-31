@@ -1,0 +1,13 @@
+
+
+.card{
+    display: flex;
+    
+    text-align: center;
+   justify-content: center;
+
+}
+
+.btn{
+    margin-left: 10px;
+}
